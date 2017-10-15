@@ -1,0 +1,24 @@
+{
+  "name": "aws-lambda-face-blur",
+  "version": "1.0.0",
+  "description": "AWS Lambda to detect and blur faces on S3 images.",
+  "main": "faceBlur.js",
+  "author": "Vitalii Elenhaupt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veelenga/aws-lambda-face-blur"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "s3",
+    "rekognition",
+    "face detect",
+    "face blur"
+  ],
+  "dependencies": {
+    "async": "^2.5.0",
+    "gm": "^1.23.0"
+  }
+}
