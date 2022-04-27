@@ -18,7 +18,7 @@
     "face blur"
   ],
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "gm": "^1.23.0"
   }
 }
